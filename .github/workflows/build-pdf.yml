@@ -1,4 +1,3 @@
---css=github-markdown.css
 name: Build and Publish PDF
 
 on:
@@ -24,7 +23,7 @@ jobs:
       - name: Generate PDF
         run: |
           pandoc index.md \
-            --css=docs/pdf.css \
+            --css=docs/github-markdown.css \
             --pdf-engine=wkhtmltopdf \
             -o docs/CV_kjex.pdf
 
