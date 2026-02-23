@@ -1,3 +1,4 @@
+--css=github-markdown.css
 name: Build and Publish PDF
 
 on:
