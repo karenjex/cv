@@ -24,6 +24,7 @@ jobs:
         run: |
           pandoc index.md \
             --css=docs/github-markdown.css \
+            --css=docs/pdf.css \
             --pdf-engine=wkhtmltopdf \
             -o docs/CV_kjex.pdf
 
