@@ -10,7 +10,7 @@
 # Karen Hope Jex
 ## Senior Solutions Architect
 
-Customer-focused database expert, recognised contributor to the [PostgreSQL project](https://www.postgresql.org/community/contributors/), member of the Board of [PostgreSQL Europe](https://www.postgresql.eu/), and Founder & Chair of its Diversity Committee.
+Customer-focused database expert, recognised contributor to the [PostgreSQL project](https://www.postgresql.org/community/contributors/), Founder & Chair of the [PostgreSQL Europe](https://www.postgresql.eu/) Diversity Committee.
 With over 20 years of experience — starting in the Oracle ecosystem and transitioning into open source — I bring deep technical expertise and a passion for solving complex database challenges.
 
 I actively support the PostgreSQL open source community through my leadership on the PostgreSQL Europe Board and by championing inclusion and accessibility as Chair of the Diversity Committee. 
@@ -67,9 +67,9 @@ BSc (hons) Mathematics (Class I), University of Warwick<br>
 
 ### Volunteer Positions
 
-#### [PostgreSQL Europe](https://www.postgresql.eu/) Board: Vice-Treasurer & Diversity Committee Lead (2024 - present)
+#### [PostgreSQL Europe](https://www.postgresql.eu/) Board: Vice-Treasurer & Diversity Committee Lead (2024 - 2026)
 
-I was elected to the PostgreSQL Europe board of directors in 2024, where I serve as vice-treasurer. During my term, I founded, and am leading, the [PostgreSQL Europe Diversity Committee](https://www.postgresql.eu/diversity/) to improve diversity within the PostgreSQL Europe community. I have documented both internal processes and guidelines for conference organisers, and I am working to make the work of the Board more transparent and to encourage participation from new PostgreSQL Europe community members.
+I was elected to the PostgreSQL Europe board of directors in 2024, where I served as vice-treasurer. During my term, I founded, and continue to lead, the [PostgreSQL Europe Diversity Committee](https://www.postgresql.eu/diversity/) to improve diversity within the PostgreSQL Europe community. I documented both internal processes and guidelines for conference organisers, made the work of the Board more transparent, and encouraged participation from new PostgreSQL Europe community members.
 
 #### [PostgreSQL Community Conferences](https://www.postgresql.org/about/policies/conferences/) Organiser and Volunteer
 
@@ -93,14 +93,14 @@ In all of those roles, I have focused on improving and documenting processes and
 [FOSDEM PGDay](https://2023.fosdempgday.org) Selection Committee member<br>
 [pgDay Paris](https://2023.pgday.paris) Co-organiser, Selection Committee and Code of Conduct Committee member
 
-#### [RightsTech Women, Geneva](https://rightstech.org/): Robotics/Coding Coach (2019 - present)
+#### [RightsTech Women, Geneva](https://rightstech.org/): Robotics/Coding Coach (2019 - 2025)
 
-Volunteering as a coach for an organization that campaigns for women’s rights in STEM provides me with the opportunity to share my passion for technology and to encourage and mentor young women in a fun, supportive environment.
+Volunteering as a coach for an organization that campaigns for women’s rights in STEM provided me with the opportunity to share my passion for technology and to encourage and mentor young women in a fun, supportive environment.
 
 ### Personal Projects
 
 #### [Advent of Code](https://adventofcode.com/)
-I participate in the Advent of Code challenge each year, mainly for fun, but also to keep my coding skills current and to help me learn new languages. I've used Python, Ruby, SQL and once even attempted it using bash scripts. My solutions are available at [github.com/karenjex/adventofcode](https://github.com/karenjex/adventofcode).
+I participate in the Advent of Code challenge each year, mainly for fun, but also to keep my coding skills current and to help me learn new languages. I've used Go, Python, Ruby, SQL and once even attempted it using bash scripts. My solutions are available at [github.com/karenjex/adventofcode](https://github.com/karenjex/adventofcode).
 
 ### Key Skills
 
@@ -114,7 +114,7 @@ I participate in the Advent of Code challenge each year, mainly for fun, but als
 
 #### Database
 
-PostgreSQL, SQL, psql, pgAdmin, pgBackRest, PgBouncer, Patroni, PGO, Crunchy Postgres for Kubernetes (CPK), EDB Postgres, Postgres Enterprise Manager, repmgr
+Snowflake, PostgreSQL, SQL, psql, pgAdmin, pgBackRest, PgBouncer, Patroni, PGO, Crunchy Postgres for Kubernetes (CPK), EDB Postgres, Postgres Enterprise Manager, repmgr
 
 #### OS/Infrastructure
 
