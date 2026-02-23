@@ -133,3 +133,5 @@ mRemote, Informatica, Spice, Weblogic, AIX, Oracle, SQL*Plus, PL/SQL, Oracle Dev
 Email: karenhjex@gmail.com<br> 
 Phone: +33 651774104<br> 
 Languages: English (first language),	French (fluent)
+
+[Download as PDF](docs/CV_kjex.pdf)
